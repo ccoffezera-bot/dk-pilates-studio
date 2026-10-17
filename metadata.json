@@ -1,0 +1,6 @@
+{
+  "name": "DK Pilates Studio",
+  "description": "DK Pilates Studio — Pilates em Santana, São Paulo. Aulas personalizadas e sistematizadas na R. Gaspar Soares, 88 (dentro da Black Fitness Club).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
